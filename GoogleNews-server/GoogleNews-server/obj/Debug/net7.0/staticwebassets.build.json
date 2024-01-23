@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LeEn0hssL1BQy2LMWilJ7MqkE4HkZCWHA1vhOOVrntw=",
+  "Source": "GoogleNews-server",
+  "BasePath": "_content/GoogleNews-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

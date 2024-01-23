@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1TuDT8KsZD18HPAZZbb6s/FX+tPPgoLDTaWHLYj651cgPcRVlrRlSUOd0CgUgkGFvYTonI4r2L2Q+PgVBVFd2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\system.servicemodel.syndication\\8.0.0\\system.servicemodel.syndication.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
