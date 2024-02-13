@@ -27,7 +27,7 @@ app.UseCors();
 app.UseOutputCache();
 
 
-app.MapRazorPages();
+/*app.MapRazorPages();*/
 
 //string rssFeedUrl = "http://news.google.com/news?pz=1&amp;cf=all&amp;ned=en_il&amp;hl=en&amp;output=rss";
 string rssFeedUrl = "https://www.93fm.co.il/feed/";

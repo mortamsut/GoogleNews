@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj": {}
+    "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj": {
+    "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj",
+        "projectUniqueName": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj",
         "projectName": "GoogleNews-server",
-        "projectPath": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj",
+        "projectPath": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews\\GoogleNews-server\\GoogleNews-server\\GoogleNews-server.csproj",
         "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews-server\\GoogleNews-server\\obj\\",
+        "outputPath": "C:\\Users\\The user\\Desktop\\לימודים\\למידה עצמית\\GoogleNews\\GoogleNews-server\\GoogleNews-server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
